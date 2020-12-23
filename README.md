@@ -110,7 +110,7 @@ In English, the present participle is formed by adding the suffix -ing to the in
 * For words consisting of consonant-vowel-consonant, double the final letter before adding ing
 * By default just add ing
 Your task in this exercise is to define a function make_ing_form() which given a verb in infinitive form returns its present participle form. Test your function with words such as lie, see, move and hug. However, you must not expect such simple rules to work for all cases.
-
+---
 # Higher order functions and list comprehensions
 ## Exercise 26 - Reduce or Max
 Using the higher order function reduce(), write a function max_in_list() that takes a list of numbers and returns the largest one. Then ask yourself: why define and call a new function, when I can just as well call the reduce() function directly?
@@ -130,7 +130,7 @@ Represent a small bilingual lexicon as a Python dictionary in the following fash
 ## Exercise 31 - Student becomes more like master
 Implement the higher order functions map(), filter() and reduce(). (They are built-in but writing them yourself may be a good exercise.)
 
---------------------------------------------------------------------------------------------
+---
 
 # Simple exercises including I/O
 ## Exercise 32 - Palindrome in File
@@ -200,7 +200,7 @@ In a game of Lingo, there is a hidden word, five characters long. The object of 
 * tiger
 * Clue: [t][i][g][e][r]
 
-
+---
 # Somewhat Harder Exercises
 ## Exercise 42- Sentence Splitter
 A sentence splitter is a program capable of splitting a text into sentences. The standard set of heuristics for sentence splitting includes (but isn't limited to) the following rules:
